@@ -6,12 +6,11 @@
 Contexte: **Redstone Engineering**, une startup fictive spécialisée dans l'hydrogène grand public.
 
 L'infrastructure couvre **deux sites interconnectés** :
-- **Site A — Siège social (Paris)** : pôles Direction, RH, IT et Serveurs
-- **Site B — Agence (Lyon)** : pôles RH et Recherche
+- **Site A, Siège social PARIS** : pôles Direction, RH, IT et Serveurs,
+- **Site B, Agence LYON** : pôles RH et Recherche.
 
 ## Schéma topologie
 ![schema-cisco](./schema.png)
-
 
 ## Compétences mises en place
 
@@ -38,7 +37,7 @@ redstone-eng/
 
 ## Documentation complète
 
-La documentation technique détaillée est disponible dans [documentation.md](./documentation.md).
+La documentation technique détaillée est [disponible ici](./documentation.md).
 
 ## Auteur
 
