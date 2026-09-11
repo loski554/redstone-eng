@@ -1,12 +1,10 @@
 # Projet Réseau d'Entreprise — Redstone Engineering
-### Documentation technique — BTS SIO SISR
+### Documentation technique
 > Réalisé sur Cisco Packet Tracer
-
----
 
 ## Présentation du projet
 
-Dans le cadre de ma formation BTS SIO option SISR, j'ai conçu et simulé l'infrastructure réseau complète d'une entreprise fictive appelée **Redstone Engineering**, une startup spécialisée dans l'hydrogène grand public. Ce projet m'a permis de mettre en pratique les compétences réseau attendues en entreprise : segmentation par VLANs, routage dynamique, sécurisation des accès et automatisation de l'adressage IP.
+J'ai conçu et simulé l'infrastructure réseau complète d'une entreprise fictive appelée **Redstone Engineering**, une startup spécialisée dans l'hydrogène grand public. Ce projet m'a permis de mettre en pratique les compétences réseau attendues en entreprise : segmentation par VLANs, routage dynamique, sécurisation des accès et automatisation de l'adressage IP.
 
 L'infrastructure couvre deux sites interconnectés :
 - **Site A — Siège social (Paris)** : pôles Direction, RH, IT et Serveurs
@@ -19,8 +17,6 @@ Les objectifs techniques que je me suis fixés sont :
 - Sécuriser les accès aux équipements via SSH
 - Protéger les ports contre les connexions non autorisées avec Port Security
 - Filtrer le trafic réseau avec des ACLs
-
----
 
 ## Étape 1 — Topologie et plan d'adressage
 
